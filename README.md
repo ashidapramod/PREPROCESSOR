@@ -18,7 +18,7 @@ The project implements the following preprocessing operations:
     Replaces macro names with their corresponding values.
 
    
-How to Run the Project
+## How to Run the Project
  Compile the Project
                make
 
