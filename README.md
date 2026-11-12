@@ -19,12 +19,12 @@ The project implements the following preprocessing operations:
 
    
 ## How to Run the Project
- Compile the Project
-               make
+ 1.Compile the Project
+              - make
 
- Run the Preprocessor
-./mypreprocessor output.c
- vi output.i
+2.Run the Preprocessor
+- ./mypreprocessor output.c
+- vi output.i
 
    ## Learning Outcomes
 
